@@ -12,7 +12,8 @@ clone and run npm i, Then "npm run seed", then "npm run start". Open insomnia an
 If you have any questions about this project you can find me on [GitHub](https://github.com/NotEnoughBacon).
 ## Screenshots
 ![image](https://github.com/NotEnoughBacon/Social-Network-API/assets/16601941/b6cfb307-59e2-4b24-aba0-38ac09035ed9)
-
+## Video
+Watch the video [here](https://drive.google.com/file/d/1cTKkehEwsDvTQ7qvwDbP570AqX-f5l1c/view)
 ## Help sourced
 I received help from the following people/sources: NTumminaro: GitHub.
 ## License
